@@ -13,6 +13,8 @@ To do:
 3. add a builder 
  
 4. possibly add network spreader, screenshots, keylogger, and custom python execution 
+ 
+5. Add a non root version
 
 
 Done:
