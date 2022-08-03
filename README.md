@@ -6,16 +6,13 @@ Please do not use this, but if you do, read the pastebin link, replace with your
 To do:
 
  
-1. Encrypt shell trafic
+1. Encrypt shell trafic [Encryption built, adding later]
  
 2. Clean up output (make it non existent)
-
-3. add a builder 
  
-4. possibly add network spreader, screenshots, keylogger, and custom python execution 
+3. possibly add network spreader, screenshots, keylogger, and custom python execution 
  
-5. Add a non root version
-
+4. Add a non root version
 
 Done:
  
@@ -28,3 +25,7 @@ Done:
 4. Fix most major errors
 
 5. Make dropper within non staged malware 
+ 
+6. Make builder
+
+7. Make encryption [Not yet added]
